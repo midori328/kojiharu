@@ -6,3 +6,12 @@ head, body, main {
   text-align: center;
 }
 
+.flex-list {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  padding-top: 10px;
+  width: 310px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
