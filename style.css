@@ -10,7 +10,5 @@ head, body, main {
   display: flex;
   list-style: none;
   flex-wrap: wrap;
-  padding-top: 10px;
-  width: 310px;
   justify-content: space-between;
 }
