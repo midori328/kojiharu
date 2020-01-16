@@ -14,7 +14,6 @@ head, body, main {
   justify-content: space-between;
   font-size: 12px;
   margin: 0;
-  padding: 0;
 }
 .image3{
   width:720px;
@@ -24,5 +23,5 @@ head, body, main {
   font-size: 12px;
 }
 .li{
-  padding: 0;
+ 
 }
