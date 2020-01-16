@@ -35,9 +35,10 @@ head, body, main {
 }
 
 a{
-  display: inline-block;
+  display: flex;
   position: relative;
   text-decoration: none;
+  text-align: center;
 }
 a:before{
 content: "";
@@ -55,4 +56,5 @@ a:hover:before{
 }
 h2{
   padding: 20px;
+  font-size: 12px;
 }
