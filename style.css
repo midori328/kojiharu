@@ -12,6 +12,7 @@ head, body, main {
   list-style: none;
   flex-wrap: wrap;
   justify-content: space-between;
+  font-size: 12px;
 }
 .image3{
   width:720px;
