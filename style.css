@@ -23,3 +23,6 @@ head, body, main {
 .list{
   font-size: 12px;
 }
+.li{
+  padding: 0;
+}
