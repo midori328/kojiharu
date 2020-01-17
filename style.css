@@ -4,7 +4,7 @@ body {
 
 head, body, main {
   text-align: center;
-  font-color: #4e4e4e;
+  color: #4e4e4e;
 }
 
 .flex-list {
@@ -29,10 +29,11 @@ head, body, main {
   font-size: 12px;
   display: flex;
   justify-content: space-between
+  
 }
-.li{
+li{
   display: flex;
-
+   
  
 }
 
@@ -54,7 +55,10 @@ a::after{
 a:hover::after{
   width: 100%;
 }
-.h2{
-  padding: 20px;
-  font-size: 12px;
+.shop-now{
+  margin: 2em auto;
+  padding: 1em;
+  width: 90%;
+  background-color: white;
+  border: 1px solid black;
 }
