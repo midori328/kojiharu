@@ -33,7 +33,11 @@ head, body, main {
 }
 li{
   display: flex;
-   
+  font-size: 12px;
+  margin-left: 4%;
+  display: inline-block;
+  vertical-align: middle;
+
  
 }
 
