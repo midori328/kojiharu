@@ -56,13 +56,13 @@ a:hover::after{
   width: 100%;
 }
 .shop-now{
-  margin: 2em auto;
-  padding: 1em;
-  width: 90%;
   background-color: white;
   border: 1px solid black;
 }
 .image4{
   width: 720px;
   height: 1080px;
+}
+.h2{
+  font-size: 12px;
 }
